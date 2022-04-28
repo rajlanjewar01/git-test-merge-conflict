@@ -6,4 +6,4 @@
 -git checkout main || git checkout staging
 
 ##push to specific branch
-- git push -u origin <branch name>
+- git push -u origin _branch name_
