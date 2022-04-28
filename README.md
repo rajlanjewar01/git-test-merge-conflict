@@ -1,9 +1,10 @@
 # git-test-merge-conflict
-##create new branch:
--git checkout -b staging   ||  git checkout -b dev
+
+##create new branch
+- `git checkout -b staging`   ||  `git checkout -b dev`
 
 ##switch to new branch 
--git checkout main || git checkout staging
+- `git checkout main` || `git checkout staging`
 
 ##push to specific branch
-- git push -u origin _branch name_
+- `git push -u origin _branch name_`
