@@ -4,3 +4,6 @@
 
 ##switch to new branch 
 -git checkout main || git checkout staging
+
+##push to specific branch
+- git push -u origin <branch name>
